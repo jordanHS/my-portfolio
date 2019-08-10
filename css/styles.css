@@ -2,13 +2,27 @@ h1 {
   font-size: 40px;
   text-decoration: underline;
   text-align: center;
+  font-family: fantasy;
+  color: white;
+}
+.jumbotron {
+  background-color: #9dafeb;
 }
 body {
-  background-color: #c94456
+  background-color: #d95776;
+}
+.panel {
+  background-color: #9dafeb;
 }
 p {
   font-size: 16px
 }
 img {
-  float:left;
+  float: right;
+}
+div {
+padding-top: 75px;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 50px;
 }
