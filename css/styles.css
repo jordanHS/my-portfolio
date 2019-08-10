@@ -3,10 +3,25 @@ h1 {
   text-decoration: underline;
   text-align: center;
   font-family: fantasy;
-  color: white;
 }
 .jumbotron {
   background-color: #9dafeb;
+}
+.about-me {
+  font-family: cursive;
+  font-size: 32px
+}
+.high-school {
+  text-decoration: underline;
+  font-size: 20px;
+}
+.college {
+  text-decoration: underline;
+  font-size: 20px;
+}
+.epicodus {
+  text-decoration: underline;
+  font-size: 20px;
 }
 body {
   background-color: #d95776;
