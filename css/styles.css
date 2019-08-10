@@ -6,28 +6,90 @@ h1 {
 }
 .jumbotron {
   background-color: #9dafeb;
+  color: #03fcba;
 }
 .about-me {
   font-family: cursive;
-  font-size: 32px
+  font-size: 64px;
+  color: #a10505;
 }
 .high-school {
   text-decoration: underline;
   font-size: 20px;
+  font-family: cursive;
+  color: #a10505
 }
 .college {
   text-decoration: underline;
   font-size: 20px;
+  font-family: cursive;
+  color: #a10505
 }
 .epicodus {
   text-decoration: underline;
   font-size: 20px;
+  font-family: cursive;
+  color: #a10505
 }
 body {
   background-color: #d95776;
 }
 .panel {
   background-color: #9dafeb;
+}
+.intro {
+  font-size: 20px;
+  color: #a10505;
+  font-family: cursive;
+}
+.subtitle-one {
+  font-size: 64px;
+  font-family: cursive;
+  color: #a10505
+}
+.freetime {
+font-size: 32px;
+font-family: cursive;
+color: #a10505
+}
+.subtitle-two {
+  font-size: 64px;
+  font-family: cursive;
+  color: #a10505
+}
+.singing {
+  font-size: 24px;
+  font-family: cursive;
+  color: #a10505
+}
+.video-games {
+  font-size: 20px;
+  font-family: cursive;
+  color: #a10505
+}
+.friends {
+  font-family: cursive;
+  font-size: 20px;
+  color: #a10505;
+}
+.netflix {
+  font-family: cursive;
+  font-size: 20px;
+  color: #a10505
+}
+.projects{
+  font-family: cursive;
+  font-size: 64px;
+  color: #a10505
+}
+.cupcake-link {
+  font-size: 18px;
+}
+.design-link {
+  font-size: 18px;
+}
+.shelter-link {
+  font-size: 18px
 }
 p {
   font-size: 16px
