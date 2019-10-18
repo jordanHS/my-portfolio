@@ -25,7 +25,7 @@ body {
   background-color: #9dafeb;
 }
 #intro {
-  font-size: 24px;
+  font-size: 20px;
   color: #a10505;
   font-family: serif;
 }
@@ -41,7 +41,13 @@ color: #a10505
 }
 
 #hobbies {
-  font-size: 24px;
+  font-size: 20px;
+  font-family: serif;
+  color: #a10505
+}
+
+#skills {
+  font-size: 20px;
   font-family: serif;
   color: #a10505
 }
@@ -79,6 +85,6 @@ padding-bottom: 50px;
   text-align: center;
   color: #5776D9;
   height: 5px;
-  font-size: 32px;
+  font-size: 28px;
   border-radius: 15px 15px 0px 0px;
 }
