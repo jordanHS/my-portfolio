@@ -61,7 +61,7 @@ color: #a10505
 #hobbies {
   font-size: 20px;
   font-family: serif;
-  color: #a10505,
+  color: #a10505
 }
 
 .projects{
@@ -94,6 +94,15 @@ padding-right: 30px;
 padding-bottom: 50px;
 }
 
-.card-header {
-  background-color: ##57D9BA;
+.panel-body {
+  background-color: #57D9BA;
+  height: 325px;
+}
+
+.panel-header {
+  background-color: #D9BA57;
+  text-align: center;
+  color: #5776D9;
+  height: px;
+  font-size: 24px;
 }
