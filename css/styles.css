@@ -8,29 +8,15 @@ h1 {
   background-color: #73d184;
   color: #1548ad;
 }
-.about-me {
-  font-family: serif;
-  font-size: 64px;
-  color: #a10505;
-}
-.high-school {
+
+
+#education {
   text-decoration: underline;
-  font-size: 20px;
+  font-size: 28px;
   font-family: serif;
   color: #a10505
 }
-.college {
-  text-decoration: underline;
-  font-size: 20px;
-  font-family: serif;
-  color: #a10505
-}
-.epicodus {
-  text-decoration: underline;
-  font-size: 20px;
-  font-family: serif;
-  color: #a10505
-}
+
 body {
   background-color: #d95776;
 }
@@ -38,7 +24,7 @@ body {
   background-color: #9dafeb;
 }
 #intro {
-  font-size: 20px;
+  font-size: 24px;
   color: #a10505;
   font-family: serif;
 }
@@ -52,34 +38,21 @@ font-size: 20px;
 font-family: serif;
 color: #a10505
 }
-.subtitle-two {
-  font-size: 64px;
-  font-family: serif;
-  color: #a10505
-}
 
 #hobbies {
-  font-size: 20px;
+  font-size: 24px;
   font-family: serif;
   color: #a10505
 }
 
-.projects{
-  font-family: serif;
-  font-size: 64px;
-  color: #a10505
+.link {
+  font-size: 20px;
 }
-.cupcake-link {
-  font-size: 18px;
-}
-.design-link {
-  font-size: 18px;
-}
-.shelter-link {
-  font-size: 18px
-}
+
 .description {
-  color: #a10505
+  color: #a10505;
+  font-size: 16px
+
 }
 p {
   font-size: 16px
@@ -104,5 +77,5 @@ padding-bottom: 50px;
   text-align: center;
   color: #5776D9;
   height: px;
-  font-size: 24px;
+  font-size: 32px;
 }
