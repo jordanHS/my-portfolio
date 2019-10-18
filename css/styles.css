@@ -37,7 +37,7 @@ body {
 .panel {
   background-color: #9dafeb;
 }
-.intro {
+#intro {
   font-size: 20px;
   color: #a10505;
   font-family: serif;
@@ -47,7 +47,7 @@ body {
   font-family: serif;
   color: #a10505
 }
-.freetime {
+.card-header {
 font-size: 20px;
 font-family: serif;
 color: #a10505
@@ -57,26 +57,13 @@ color: #a10505
   font-family: serif;
   color: #a10505
 }
-.singing {
+
+#hobbies {
   font-size: 20px;
   font-family: serif;
-  color: #a10505
+  color: #a10505,
 }
-.video-games {
-  font-size: 20px;
-  font-family: serif;
-  color: #a10505
-}
-.friends {
-  font-family: serif;
-  font-size: 20px;
-  color: #a10505;
-}
-.netflix {
-  font-family: serif;
-  font-size: 20px;
-  color: #a10505
-}
+
 .projects{
   font-family: serif;
   font-size: 64px;
@@ -105,4 +92,8 @@ padding-top: 75px;
 padding-left: 30px;
 padding-right: 30px;
 padding-bottom: 50px;
+}
+
+.card-header {
+  background-color: ##57D9BA;
 }
