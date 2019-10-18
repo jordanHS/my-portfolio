@@ -7,6 +7,7 @@ h1 {
 .well {
   background-color:#CFE690;
   color: #7957D9;
+  border-radius: 15px;
 }
 
 
@@ -69,13 +70,15 @@ padding-bottom: 50px;
 
 .panel-body {
   background-color: #57D9BA;
-  height: 325px;
+  height: 350px;
+  border-radius: 0px 0px 15px 15px;
 }
 
 .panel-header {
   background-color: #B7D957;
   text-align: center;
   color: #5776D9;
-  height: px;
+  height: 5px;
   font-size: 32px;
+  border-radius: 15px 15px 0px 0px;
 }
