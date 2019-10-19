@@ -93,10 +93,3 @@ padding-bottom: 50px;
   color: #a10505
 }
 
-.panel-body:hover {
-  transform: rotateY(180deg);
-}
-
-.panel-header:hover {
-  transform: rotateY(180deg);
-}
