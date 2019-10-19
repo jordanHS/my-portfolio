@@ -14,7 +14,7 @@ h1 {
 
 #education {
   text-decoration: underline;
-  font-size: 28px;
+  font-size: 22px;
   font-family: serif;
   color: #a10505
 }
@@ -90,4 +90,10 @@ padding-bottom: 50px;
   font-size: 28px;
   border-radius: 15px 15px 0px 0px;
   box-shadow: 5px 5px 5px grey;
+}
+
+.contact-info {
+  font-size: 20px;
+  font-family: serif;
+  color: #a10505
 }
