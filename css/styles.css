@@ -75,9 +75,8 @@ padding-bottom: 50px;
   height: 350px;
   border-radius: 0px 0px 15px 15px;
   box-shadow: 5px 5px 5px grey;
-  transform: rotateY(360deg);
 }
-
+  
 .panel-header {
   background-color: #CFE690;
   text-align: center;
@@ -86,7 +85,6 @@ padding-bottom: 50px;
   font-size: 28px;
   border-radius: 15px 15px 0px 0px;
   box-shadow: 5px 5px 5px grey;
-  transform: rotateY(360deg);
 }
 
 .contact-info {
@@ -94,3 +92,10 @@ padding-bottom: 50px;
   font-family: serif;
   color: #a10505
 }
+
+.panel-body:hover {
+  transform: rotateY(180deg);
+}
+
+.panel-header:hover {
+  transform: rotateY(180deg);
