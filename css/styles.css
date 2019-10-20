@@ -8,7 +8,7 @@ h1 {
   background-color:#CFE690;
   color: #7957D9;
   border-radius: 15px;
-  box-shadow: 5px 5px 5px grey;
+  box-shadow: 5px 5px 5px 5px grey;
 }
 
 
@@ -74,7 +74,7 @@ padding-bottom: 50px;
   background-color: #ABECDD;
   height: 350px;
   border-radius: 0px 0px 15px 15px;
-  box-shadow: 5px 5px 5px grey;
+  box-shadow: 5px 5px 5px 5px grey;
 }
   
 .panel-header {
@@ -84,7 +84,7 @@ padding-bottom: 50px;
   height: 5px;
   font-size: 28px;
   border-radius: 15px 15px 0px 0px;
-  box-shadow: 5px 5px 5px grey;
+  box-shadow: 5px 5px 5px 5px grey;
 }
 
 .contact-info {
