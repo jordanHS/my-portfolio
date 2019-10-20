@@ -75,7 +75,6 @@ padding-bottom: 50px;
   height: 350px;
   border-radius: 0px 0px 15px 15px;
   box-shadow: 5px 5px 5px 5px grey;
-  transform: rotateY(360deg);
 }
   
 .panel-header {
@@ -86,7 +85,6 @@ padding-bottom: 50px;
   font-size: 28px;
   border-radius: 15px 15px 0px 0px;
   box-shadow: 5px 5px 5px 5px grey;
-  transform: rotateY(360deg);
 }
 
 .contact-info {
