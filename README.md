@@ -10,7 +10,15 @@ This portfolio includes an about me section listing my interests, hobbies, educa
 
 ## Setup/Installation Requirements
 
-* Click HTML file to open in browser of your choice.
+### Installation
+
+* Copy repo and clone to desktop.
+* Open file in preferred browser.
+
+### Open with url
+
+* Go to jordanhs.github.io
+
 
 ## Known Bugs
 
