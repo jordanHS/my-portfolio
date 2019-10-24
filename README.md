@@ -17,7 +17,7 @@ This portfolio includes an about me section listing my interests, hobbies, educa
 
 ### Open with url
 
-* Go to jordanhs.github.io
+* Go to jordanhs.github.io/myportfolio
 
 
 ## Known Bugs
